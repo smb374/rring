@@ -1,2 +1,3 @@
 # rring
-A Rust binding to io_uring
+
+A Rust binding to `io_uring`
